@@ -1,3 +1,5 @@
+📄 **Paper**: [MBTI Personality Classification from Text using RoBERTa with LoRA](https://github.com/SeojunHAHA/MBTI_Prediction/blob/main/MBTI_Personality_Classification_RoBERTa_LoRA.pdf)
+
 # MBTI Personality Classification from Text using RoBERTa with LoRA
 
 This repository contains the code and notebooks for the project  
