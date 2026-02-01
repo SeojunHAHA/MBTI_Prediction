@@ -1,6 +1,7 @@
 # ===== Python =====
 __pycache__/
 *.py[cod]
+*.egg-info/
 
 # ===== Virtual env =====
 .venv/
@@ -9,6 +10,11 @@ env/
 
 # ===== Jupyter =====
 .ipynb_checkpoints/
+*.ipynb~
+
+# ===== Build =====
+build/
+dist/
 
 # ===== IDE =====
 .idea/
@@ -16,15 +22,13 @@ env/
 # ===== OS =====
 .DS_Store
 
-# ===== Data =====
+# ===== Data / Models / Outputs =====
 Data/
 NewData/
-
-# ===== Models / Outputs =====
 Model/
 NewModel/
-Experiment/
 Figures/
+Experiment/
 
 # ===== Logs =====
 *.log
