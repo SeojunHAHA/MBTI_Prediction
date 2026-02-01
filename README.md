@@ -45,6 +45,9 @@ Notes:
 Due to licensing and size constraints, **datasets are not included in this repository**.  
 After downloading, place the data under:
 
+```text
+Data/
+```
 ---
 
 ## Preprocessing
@@ -89,7 +92,8 @@ imbalance, indicating limited generalization across all MBTI types.
 ---
 
 ## Repository Structure
-'''
+
+```text
 MBTI_Prediction/
 ├── notebooks/              # Original EDA and preprocessing notebooks
 ├── Newnotebooks/           # Updated EDA and preprocessing notebooks
@@ -98,7 +102,7 @@ MBTI_Prediction/
 ├── Model/                  # Trained models (not included)
 ├── .gitignore
 └── README.md
-'''
+```
 ---
 
 ## Environment
@@ -108,3 +112,4 @@ Python 3.10 is recommended.
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+```
