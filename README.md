@@ -89,6 +89,7 @@ imbalance, indicating limited generalization across all MBTI types.
 ---
 
 ## Repository Structure
+'''
 MBTI_Prediction/
 ├── notebooks/              # Original EDA and preprocessing notebooks
 ├── Newnotebooks/           # Updated EDA and preprocessing notebooks
@@ -97,7 +98,7 @@ MBTI_Prediction/
 ├── Model/                  # Trained models (not included)
 ├── .gitignore
 └── README.md
-
+'''
 ---
 
 ## Environment
