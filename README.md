@@ -1,5 +1,3 @@
-📄 **Paper**: [MBTI Personality Classification from Text using RoBERTa with LoRA](https://github.com/SeojunHAHA/MBTI_Prediction/blob/main/MBTI_Personality_Classification_RoBERTa_LoRA.pdf)
-
 # MBTI Personality Classification from Text using RoBERTa with LoRA
 
 This repository contains the code and notebooks for the project  
@@ -10,6 +8,7 @@ The project investigates whether transformer-based language models can infer
 MBTI personality types from user-generated text by formulating the task as a
 **16-class single-label classification problem**.
 
+📄 **Paper**: [MBTI Personality Classification from Text using RoBERTa with LoRA](https://github.com/SeojunHAHA/MBTI_Prediction/blob/main/MBTI_Personality_Classification_RoBERTa_LoRA.pdf)
 ---
 
 ## Overview
